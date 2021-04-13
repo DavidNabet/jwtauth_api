@@ -1,2 +1,2 @@
 # jwtauth_api
- A JWT Authentication
+ A JWT Authentication with BcryptJs
